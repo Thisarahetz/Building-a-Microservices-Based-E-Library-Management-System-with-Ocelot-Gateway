@@ -1,6 +1,6 @@
 {
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:2063"
+    "BaseUrl": "http://localhost:5018"
   },
   "Routes": [
     {
@@ -26,6 +26,21 @@
           "Port": 5064
         }
       ]
+    },
+    {
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/",
+      "UpstreamHttpMethod": [ "Get" ],
+      "UpstreamHost": "*",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5064
+        }
+      ],
+      "RouteTemplate": "/"
+
     }
 
   ]

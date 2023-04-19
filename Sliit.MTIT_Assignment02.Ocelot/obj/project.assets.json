@@ -874,19 +874,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thisa\\.nuget\\packages\\": {}
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\thisa\\source\\repos\\Sliit.MTIT_Assignment02\\Sliit.MTIT_Assignment02.Ocelot\\Sliit.MTIT_Assignment02.Ocelot.csproj",
+      "projectUniqueName": "D:\\Building-a-Microservices-Based-E-Library-Management-System-with-Ocelot-Gateway\\Sliit.MTIT_Assignment02.Ocelot\\Sliit.MTIT_Assignment02.Ocelot.csproj",
       "projectName": "Sliit.MTIT_Assignment02.Ocelot",
-      "projectPath": "E:\\Users\\thisa\\source\\repos\\Sliit.MTIT_Assignment02\\Sliit.MTIT_Assignment02.Ocelot\\Sliit.MTIT_Assignment02.Ocelot.csproj",
-      "packagesPath": "C:\\Users\\thisa\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\thisa\\source\\repos\\Sliit.MTIT_Assignment02\\Sliit.MTIT_Assignment02.Ocelot\\obj\\",
+      "projectPath": "D:\\Building-a-Microservices-Based-E-Library-Management-System-with-Ocelot-Gateway\\Sliit.MTIT_Assignment02.Ocelot\\Sliit.MTIT_Assignment02.Ocelot.csproj",
+      "packagesPath": "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\",
+      "outputPath": "D:\\Building-a-Microservices-Based-E-Library-Management-System-with-Ocelot-Gateway\\Sliit.MTIT_Assignment02.Ocelot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "E:\\Users\\thisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LAYOUTindex Employee\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

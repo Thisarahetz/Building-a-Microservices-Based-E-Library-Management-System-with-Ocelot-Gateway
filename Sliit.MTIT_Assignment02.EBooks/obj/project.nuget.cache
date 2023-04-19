@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "M37BVnKZCqhDGjScm/0guXSD8prd9S6BsqF1kuvWgVTbnL25rD5GkHJM3QZg/XAMN7tfCXmMxWYdH1QIZgj2Yw==",
+  "dgSpecHash": "6AFtmDdPw3uIAyss5PmHXVQkxAfcAmYj/xOmCL78YCDMOUX+ORweXnNu2ui6EyzppMYSy6WnVu7t6NSHEDGPzg==",
   "success": true,
-  "projectFilePath": "E:\\Users\\thisa\\source\\repos\\Sliit.MTIT_Assignment02\\Sliit.MTIT_Assignment02.EBooks\\Sliit.MTIT_Assignment02.EBooks.csproj",
+  "projectFilePath": "D:\\Building-a-Microservices-Based-E-Library-Management-System-with-Ocelot-Gateway\\Sliit.MTIT_Assignment02.EBooks\\Sliit.MTIT_Assignment02.EBooks.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thisa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\thisa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\thisa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\thisa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\thisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\thisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
