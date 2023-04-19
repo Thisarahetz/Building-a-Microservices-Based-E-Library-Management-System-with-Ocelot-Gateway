@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBKB4SqWCgpNrCrlGWRb2cYf7sStoIj/qKrF5wZbVRkxHUPK8FqPR889PJSKfC0n0SGFWYDKzGzdiGn6++PKFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Building-a-Microservices-Based-E-Library-Management-System-with-Ocelot-Gateway\\Sliit.MTIT_Assingment02.libraryMember\\Sliit.MTIT_Assingment02.libraryMembers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LAYOUTindex Employee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
