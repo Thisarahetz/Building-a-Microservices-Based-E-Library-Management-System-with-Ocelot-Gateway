@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{E295511B-4FA6-4E87-BDB5-323D8DE39384}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT_Assignment02.EBooks", "Sliit.MTIT_Assignment02.EBooks\Sliit.MTIT_Assignment02.EBooks.csproj", "{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{EA7014FB-4085-42F3-A92C-45384AA64357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT_Assignment02.Ocelot", "Sliit.MTIT_Assignment02.Ocelot\Sliit.MTIT_Assignment02.Ocelot.csproj", "{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6B8A4B6-3F0F-4D9E-AA8A-E763C53A5B38} = {E295511B-4FA6-4E87-BDB5-323D8DE39384}
+		{7CC9A7F8-0E99-42C2-B4B5-5C0FDAE4EAD1} = {EA7014FB-4085-42F3-A92C-45384AA64357}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1886E3B-4449-410D-A641-24BF6977D936}
+	EndGlobalSection
+EndGlobal
